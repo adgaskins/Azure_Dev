@@ -32,15 +32,15 @@ The following resources are created by this template:
 - 1 Load balancer with NATing rules.
 
 
-<img src="https://raw.githubusercontent.com/fixx220/ARMTemplates/master/IIS-4VM-SQL-1VM/images/resources.png" />
+<img src="https://raw.githubusercontent.com/adgaskins/Azure_Dev/master/IIS-4VM-SQL-1VM/azuredeploy.json/images/resources.png" />
 
 
 ## Architecture Diagram
-<img src="https://raw.githubusercontent.com/fixx220/ARMTemplates/master/IIS-4VM-SQL-1VM/images/architecture.png" />
+<img src="https://raw.githubusercontent.com/adgaskins/Azure_Dev/master/IIS-4VM-SQL-1VM/azuredeploy.json/images/architecture.png" />
 
 
 ## Dependencies Diagram
-<img src="https://raw.githubusercontent.com/fixx220/ARMTemplates/master/IIS-4VM-SQL-1VM/images/dependencies.png" />
+<img src="https://raw.githubusercontent.com/adgaskins/Azure_Dev/master/IIS-4VM-SQL-1VM/azuredeploy.json/images/dependencies.png" />
 
 ## PowerShell Deployment
 
